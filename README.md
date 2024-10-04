@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+
+- 🌱 I’m currently learning Python. Feel free to reach out if you have any interesting project.
+
 
 <!--
 **jeremqui/jeremqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
